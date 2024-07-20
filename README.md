@@ -1,6 +1,9 @@
 # Welcome to KTM EduTech's GitHub Profile! 👋
 
-Welcome to KTM EduTech! I am passionate about empowering learners and educators through innovative technological solutions. My mission is to create educational resources, develop interactive learning tools, and support the education community with cutting-edge technology.
+<div style="display: flex; align-items: center;">
+    <img src="https://i.ibb.co/z4QWGJZ/KTM-Edu-Tech-Logo.png" alt="KTM-Edu-Tech-Logo.png" style="width: auto; height: 80px; margin-right: 10px;">
+    <p>Welcome to <b>KTM EduTech</b>! I am passionate about empowering learners and educators through innovative technological solutions. My mission is to create educational resources, develop interactive learning tools, and support the education community with cutting-edge technology.</p>
+</div>
 
 [![Welcome Page Link](https://i.ibb.co/dKkFsYq/welcomepage.png)](https://ktm-edutech.github.io/KTM-EduTech/)
 
