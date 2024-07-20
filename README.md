@@ -2,6 +2,8 @@
 
 Welcome to KTM EduTech! I am passionate about empowering learners and educators through innovative technological solutions. My mission is to create educational resources, develop interactive learning tools, and support the education community with cutting-edge technology.
 
+[![Welcome Page Link](https://i.ibb.co/dKkFsYq/welcomepage.png)](https://ktm-edutech.github.io/KTM-EduTech/)
+
 ## Who I Am
 KTM EduTech is led by me, Kyd Tantano Masong, a dedicated educator and tech enthusiast. With a focus on Computer Science and digital media, I strive to enhance learning experiences for students and provide valuable resources for teachers.
 
@@ -26,3 +28,5 @@ I love collaborating with educators, developers, and anyone passionate about edu
 - **Email:** [contact@kydmasong.net](mailto:contact@kydmasong.net)
 - **GitHub Testing Profile:** [kydmasong-dev](https://github.com/kydmasong-dev)
 - **Website:** [www.kydmasong.net](https://www.kydmasong.net/)
+
+
