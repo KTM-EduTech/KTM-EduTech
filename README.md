@@ -9,6 +9,15 @@ Welcome to <b>KTM EduTech</b>! I am passionate about empowering learners and edu
 
 [![Welcome Page Link](https://i.ibb.co/dKkFsYq/welcomepage.png)](https://ktm-edutech.github.io/KTM-EduTech/)
 
+## Roadmap AI
+
+Check out my personalized learning roadmap for K-12 Computer Science and Web Development!
+
+[![Roadmap AI Badge](https://img.shields.io/badge/Roadmap%20AI-Explore%20My%20Roadmap-blue)](https://roadmap.sh/u/ktmedutech)
+
+
+
+
 ## Who I Am
 KTM EduTech is led by me, Kyd Tantano Masong, a dedicated educator and tech enthusiast. With a focus on Computer Science and digital media, I strive to enhance learning experiences for students and provide valuable resources for teachers.
 
